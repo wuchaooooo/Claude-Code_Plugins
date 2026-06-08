@@ -7,9 +7,9 @@
   "plugins": [
     {
       "name": "ins-sales-cycle-expert",
-      "path": "ins-sales-cycle-expert",
+      "path": "plugins/ins-sales-cycle-expert",
       "description": "保险销售循环专家：从微信聊天记录同步到销售阶段分析的全流程工具",
-      "type": "github",
+      "type": "git-subdir",
       "version": "1.0.0",
       "author": {
         "name": "Charles"
