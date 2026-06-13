@@ -1,0 +1,15 @@
+{
+  "name": "yangmei-sales",
+  "description": "仙居东魁杨梅销售全流程工具：客户地址运费计算、订单管理等",
+  "version": "1.0.0",
+  "author": {
+    "name": "Charles"
+  },
+  "keywords": [
+    "杨梅",
+    "yangmei",
+    "sales",
+    "freight",
+    "shipping"
+  ]
+}
