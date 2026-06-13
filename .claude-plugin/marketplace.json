@@ -1,6 +1,6 @@
 {
   "name": "charles-plugin-marketplace",
-  "description": "保险销售、微信CRM 相关的 Claude Code 插件合集",
+  "description": "Charles个人的Claude Code插件集合",
   "owner": {
     "name": "Charles"
   },
@@ -9,6 +9,16 @@
       "name": "ins-sales-cycle-expert",
       "source": "./plugins/ins-sales-cycle-expert",
       "description": "保险销售循环专家：从微信聊天记录同步到销售阶段分析的全流程工具",
+      "type": "git-subdir",
+      "version": "1.0.0",
+      "author": {
+        "name": "Charles"
+      }
+    },
+    {
+      "name": "yangmei-sales",
+      "source": "./plugins/yangmei-sales",
+      "description": "仙居东魁杨梅销售全流程工具：客户地址运费计算、订单管理",
       "type": "git-subdir",
       "version": "1.0.0",
       "author": {
